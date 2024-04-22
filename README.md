@@ -6,4 +6,4 @@
 
 ![power BI image](https://github.com/KHANDOLKAR-SOMESH/power-BI/blob/f9ae575796e819263bdbdb05328fc16d5bfaec52/a.png)
 
-![power BI image]()
+![power BI image](https://github.com/KHANDOLKAR-SOMESH/power-BI/blob/83040e9e844da2d954ceb26e846ce2678196e19e/b.png)
