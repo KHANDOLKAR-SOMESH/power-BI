@@ -1,3 +1,3 @@
 # power-BI
 power BI deshboader for sales analysis
-![Example Image](power bi.jpg)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
